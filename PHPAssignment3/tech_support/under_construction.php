@@ -4,4 +4,3 @@
     <p>We'll finish it as quickly as we can. Thanks!</p>
 </main>
 <?php include 'view/footer.php'; ?>
-
